@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://ci6.googleusercontent.com/proxy/6yONIoTPFRxmcUzOEqGb9rYBV6ot9p2T-PEXVCf8vS8efQLz1Q0yo4Sa6U0lrDqnZIcEDq445nqEDoRcH9cyZobRVuLb3o8oyyjpFXZX1jC-Y1aa-YGJ3kxAAgGaX-S0gw4Tt_8xte_q=s0-d-e1-ft#https://www.lambdatest.com/blog/wp-content/uploads/2021/02/ezgif.com-gif-maker-1-1.gif" >
+<img align="left" alt="Coding" width="400" src="https://th.bing.com/th/id/R.4b695f72ac7737ce5b36508a0058dd02?rik=OPpsrxwzNQF2Og&riu=http%3a%2f%2fwww.web24zone.com%2fwp-content%2fuploads%2f2022%2f10%2f46207-programmer-1.gif&ehk=86cfZHhLfMkMI2vzq55xQ1%2bJRsM99JQkgGiqUE7cTQE%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahasay-rajesh&label=Profile%20views&color=0e75b6&style=flat" alt="mahasay-rajesh" /> </p>
 
