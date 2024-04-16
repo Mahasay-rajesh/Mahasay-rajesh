@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Mahasay-rajesh/Projects/blob/main/Blue%20Gaming%20Facebook%20Cover%20(1).png?raw=true)
+![logo](https://github.com/Mahasay-rajesh/Projects/blob/main/Blue%20Gaming%20Facebook%20Cover.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
